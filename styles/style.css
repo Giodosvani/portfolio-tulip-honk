@@ -1,5 +1,8 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -20,7 +23,7 @@ body, html {
 
 body {
     background-image: linear-gradient(to bottom, #fff0a6, #ffaa00);
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Permanent Marker', cursive;
 }
 
 nav {
@@ -36,6 +39,7 @@ nav {
 
 nav h2 {
     font-size: 1.2em;
+    font-family: 'Edu NSW ACT Foundation', cursive;
 }
 
 nav img {
